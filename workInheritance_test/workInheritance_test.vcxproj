@@ -139,9 +139,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Inheritance(naslidyvanna)\Inheritance(naslidyvanna)\ForeignPassport.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Inheritance(naslidyvanna)\Inheritance(naslidyvanna)\ForeignPassport.h" />
     <ClInclude Include="Base1.h" />
     <ClInclude Include="D1.h" />
     <ClInclude Include="D2.h" />
