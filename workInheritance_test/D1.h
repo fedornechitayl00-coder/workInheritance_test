@@ -11,7 +11,7 @@ public:
 		this->d1 = d1;
 	}
 	void showInfo() const {
-	Base1:showInfo();
+		Base1::showInfo();
 		std::cout << d1 << "\n";
 	}
 };
